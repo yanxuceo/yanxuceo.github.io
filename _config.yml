@@ -72,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:  light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/a_logic_circuit.png
+avatar: /assets/img/Turing.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -114,7 +114,7 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
 
-paginate: 10
+paginate: 15
 
 # ------------ The following options are not recommended to be modified ------------------
 
