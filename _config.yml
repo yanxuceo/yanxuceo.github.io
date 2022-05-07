@@ -198,7 +198,7 @@ jekyll-archives:
 
 
 
-    # To use Gittalk comments  https://github.com/gitalk/gitalk#Usage
+# To use Gittalk comments  https://github.com/gitalk/gitalk#Usage
 # jekyll synatx: https://jekyllrb.com/docs/liquid/
 gittalk:
   # Note: A GitHub Application is needed for authorization, if you don't have one, going to https://github.com/settings/applications/new register a new one.
@@ -215,7 +215,7 @@ utterance:
   # Note: Make sure the repo is public, otherwise your readers will not be able to view the issues/comments.
   # Make sure the [utterances app](https://github.com/apps/utterances) is installed on the repo, otherwise users will not be able to post comments.
   #  If your repo is a fork, navigate to it's settings tab and confirm the issues feature is turned on.
-  repo: yanceceo/yanxuceo.github.io # Choose the repository utterances will connect to. eg: owner/repo
+  repo: yanxuceo.github.io # Choose the repository utterances will connect to. eg: owner/repo
   issue-term: title   # Choose the mapping between blog posts and GitHub issues. 
   theme: github-light # Choose an Utterances theme that matches your blog. 'github-light' is default
 
