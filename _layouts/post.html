@@ -11,6 +11,9 @@ tail_includes:
 
 {% include lang.html %}
 
+{% include gitalk-comment.html %}
+{% include utterances-comment.html %}
+
 <h1 data-toc-skip>{{ page.title }}</h1>
 
 <div class="post-meta text-muted">
@@ -148,29 +151,6 @@ tail_includes:
     {% include post-sharing.html %}
 
   </div><!-- .post-tail-bottom -->
-
-
-  <!-- Gitalk comment start  -->
-
- <!-- Link Gitalk  -->
- <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
- <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
- <div id="gitalk-container"></div>     <script type="text/javascript">
-     var gitalk = new Gitalk({
-
-     // Gitalk parameters
-         clientID: '12f3ad4c50193e5d67b3', //customize
-         clientSecret: 'f8a25583f9ade234665941085c7beba2e377a52f', //customize
-         repo: 'yanxuceo.github.io', //customize
-         owner: 'yanxuceo', //customize
-         admin: ['yanxuceo'], //customize
-         id: window.location.pathname, // leave this line as it is
-        
-     });
-     gitalk.render('gitalk-container');
- </script> 
- <!-- Gitalk end -->
-
 </div><!-- div.post-tail-wrapper -->
 
 
