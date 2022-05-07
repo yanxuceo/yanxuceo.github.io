@@ -1,0 +1,29 @@
+---
+layout: default
+# The posts' layout
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT Licensed
+---
+
+ <!-- Gitalk comment start  -->
+
+ <!-- Link Gitalk  -->
+ <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+ <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+ <div id="gitalk-container"></div>     <script type="text/javascript">
+     var gitalk = new Gitalk({
+
+     // Gitalk parameters
+         clientID: '12f3ad4c50193e5d67b3', //customize
+         clientSecret: 'f8a25583f9ade234665941085c7beba2e377a52f', //customize
+         repo: 'yanxuceo.github.io', //customize
+         owner: 'yanxuceo', //customize
+         admin: ['yanxuceo'], //customize
+         id: window.location.pathname, // leave this line as it is
+        
+     });
+     gitalk.render('gitalk-container');
+ </script> 
+ <!-- Gitalk end -->
