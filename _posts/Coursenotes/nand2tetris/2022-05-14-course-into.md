@@ -24,7 +24,7 @@ Elon Musk在一次访谈中被问到“How do you learn so much so fast? ”，�
 
 
 <figure>
-<img src="/assets/img/nand2tetris/elon_musk_semantic_tree.jpg" alt="stack overflow keyboard" class="center" width="600"/>
+<img src="/assets/img/nand2tetris/elon_musk_semantic_tree.png" alt="stack overflow keyboard" class="center" width="600"/>
 <figcaption>Fig.2 - Build your knowledge tree <a href="https://www.reddit.com/r/GetMotivated/comments/2rsukr/image_elon_musk_on_learning_from_his_ama/">(image courtesy)</a></figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ Let’s fully understand what’s going on inside computers, and find the beauty
 
 ## Start the journey
 <div style="text-align: justify" style="padding-top: 5px; padding-bottom: 12px;"> 
-前几天，在亚马逊上看到了这门课配套书的第二版(2021)，马上下了单。估计中文版一时半会儿出不来。我就打算在完成下半部分的过程中，把新版的书过一遍，同时把学习过程分享在这个博客上，大家共同学习进步！
+前几天，在亚马逊上看到了这门课配套书的第二版(2021)，马上下了单。估计中文版一时半会儿出不来。我计划在完成第二部分项目的过程中，把新版的书过一遍，同时把学习过程分享在这个博客上，大家共同学习进步！
 </div>
 
 <figure>
