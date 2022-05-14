@@ -29,7 +29,7 @@ Elon Musk在一次访谈中被问到“How do you learn so much so fast? ”，�
 </figure>
 
 <div style="text-align: justify" style="padding-top: 15px; padding-bottom: 12px;"> 
-那对我们来说，这些知识的主干就是像计算机体系结构，组成原理，操作系统，编译原理，计算机网络等这些核心的计算机基础知识。北美很多名校的公开课比如麻省理工的6.S081，6.004, 斯坦福的CS110, CS107, CS144这些课程的质量都很棒，视频课件公开，只要一个一个课程作业及实验课跟着做完（我还没有），就能建立起完整的计算机领域的知识体系。但今天要讲的是另外一门神奇的课程Nand To Tetris - 从与非门到俄罗斯方块。该课程从一个与非门开始，根据一套给定的简化指令集，构建一个完整的计算机 - HACK Computer, 并编写汇编器及编译器，最终用自己的一个编程语言(JACK)实现Tetris游戏。如课程教授所说，
+那对我们来说，这些知识的主干就是像计算机体系结构，组成原理，操作系统，编译原理，计算机网络等这些核心的计算机基础知识。北美很多名校的公开课比如麻省理工的6.S081，6.004, 斯坦福的CS110, CS107, CS144这些课程的质量都很棒，视频课件公开，只要一个一个课程作业及实验课跟着做完（我还没有），就能建立起完整的计算机领域的知识体系。但今天要讲的是另外一门神奇的课程Nand To Tetris 从与非门到俄罗斯方块。该课程从一个与非门开始，根据一套给定的简化指令集，构建一个完整的计算机 - HACK Computer, 并编写汇编器及编译器，最终用自己的一个编程语言(JACK)实现Tetris游戏。如课程教授所说，
  </div>
 
 <div style="text-align: justify" class="quote_text"  style="padding-bottom: 8px;"> 
@@ -39,7 +39,7 @@ Elon Musk在一次访谈中被问到“How do you learn so much so fast? ”，�
 ## Lecture resources
 
 <div style="text-align: justify"  style="padding-bottom: 12px;"> 
-这里是<a href="https://www.nand2tetris.org/">课程网站</a>，所有要用到的软件工具，硬件仿真（Hardware simulator, CPU emulator, VM emulator），课程资料，技术手册都在这里。 Cool Stuff这里展示了一些非常有趣的个人项目，有人不满足于本课程的HDL语言与仿真平台，直接把HACK电脑用FPGA实现了！有人实现了不可思议的光纤追踪。 。
+这里是<a href="https://www.nand2tetris.org/">课程网站</a>，需要的软件工具，硬件仿真(Hardware simulator, CPU emulator, VM emulator)，课程资料，技术手册都在这里。 Cool Stuff这里展示了一些非常有趣的个人项目，有人不满足于本课程的HDL语言与仿真平台，直接把HACK电脑用FPGA实现了！有人实现了不可思议的光纤追踪。 
  </div>
 
 <figure>
@@ -80,13 +80,13 @@ Let’s fully understand what’s going on inside computers, and find the beauty
 整个课程，正如路线图所展示的这样，总共需要完成12个硬件与软件构建任务。P1-P6完成HACK Computer(A simple but sufficiently powerful computer system)硬件的搭建；P7-P12完成从虚拟机，编译器，到操作系统的搭建。
 </div>
 
-硬件部分学习路线图
+硬件部分路线图
 <figure>
 <img src="/assets/img/nand2tetris/Roadmap-hardware-1.PNG" alt="nand2tetris roadmap hardware" class="center" width="600"/>
 <figcaption>Fig.5- Roadmap on hardware <a href="https://www.nand2tetris.org/course">(image courtesy)</a></figcaption>
 </figure>
 
-软件部分学习路线图
+软件部分路线图
 <figure>
 <img src="/assets/img/nand2tetris/Roadmap-software-2.PNG" alt="nand2tetris roadmap software" class="center" width="600"/>
 <figcaption>Fig.6 - Roadmap on software <a href="https://www.nand2tetris.org/course">(image courtesy)</a></figcaption>
