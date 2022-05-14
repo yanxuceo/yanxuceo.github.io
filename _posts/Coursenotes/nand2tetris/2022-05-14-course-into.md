@@ -113,7 +113,7 @@ Let’s fully understand what’s going on inside computers, and find the beauty
 
 ## Start the journey
 <div style="text-align: justify" style="padding-top: 5px; padding-bottom: 12px;"> 
-前几天，在亚马逊上看到了这门课配套书的第二版(2021)，马上下了单。估计中文版一时半会儿出不来。我计划在完成第二部分项目的过程中，把新版的书过一遍，同时把学习过程分享在这个博客上，大家共同学习进步！
+前几天，在亚马逊上看到了这门课配套书的第二版(2021)，马上下了单。估计中文版一时半会儿出不来。我会把读书和学习的过程分享在这个博客上，大家共同学习进步！
 </div>
 
 <figure>
