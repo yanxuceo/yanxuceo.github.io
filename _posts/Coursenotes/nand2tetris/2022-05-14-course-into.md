@@ -48,11 +48,11 @@ Elon Musk在一次访谈中被问到“How do you learn so much so fast? ”，�
 </figure>
 
 <div style="text-align: justify" style="padding-top: 12px; padding-bottom: 12px;"> 
-一门课覆盖如此全面的计算机基础知识。你可能会问，"Is it possible to cover so much ground in a one-semester course?" 答案是肯定的，证明就是全球已经有超过150所大学开设这门课程，学生们的满意度超乎寻常，MOOC平台Courera上的Nand to Tetris课程评分常年靠前。当然了，一个学期的课程涉及到计算机方方面面，广度自然牺牲掉了一部分深度。
+你可能会问，"Is it possible to cover so much ground in a one-semester course?" 答案是肯定的，证明就是全球已经有超过150所大学开设这门课程，学生们的满意度超乎寻常，MOOC平台Courera上的Nand to Tetris课程评分常年靠前。当然了，一个学期的课程涉及到计算机方方面面，广度自然牺牲掉了一部分深度。
 </div>
 
 <div style="text-align: justify" style="padding-top: 12px; padding-bottom: 12px;"> 
-Coursera上的课程分为上下两部分，上部属于Hardware, 完成Hack Computer的搭建; 下部属于Software，完成从虚拟机到操作系统，编译器汇编器，高级语言设计及最后游戏的编码。我在去年完成了这门课的上半部分，在享受造物乐趣的同时: 在仿真器里，用一个很简单的HDL硬件描述语言，从一个门电路开始到最终完成所有模块的构建，Multiplexer, Demultiplexer, Register, RAM, ALU, CPU, 一步一步学习了解到了计算机的工作原理，there is no magic!
+Coursera上的课程分为上下两部分，上部属于Hardware, 完成Hack Computer的搭建; 下部分属于Software，完成从虚拟机到操作系统，编译器汇编器，高级语言设计及最后游戏的编码。我在去年完成了这门课的上半部分，在享受造物乐趣的同时: 在仿真器里，用一个很简单的HDL硬件描述语言，从一个门电路开始到最终完成所有模块的构建, Multiplexer, Demultiplexer, Register, RAM, ALU, CPU, 一步一步学习了解到了计算机的工作原理，so there is no magic!
 </div>
 
 
@@ -77,7 +77,7 @@ Let’s fully understand what’s going on inside computers, and find the beauty
 
 ## Learning Roadmap 
 <div style="text-align: justify" style="padding-top: 5px; padding-bottom: 12px;"> 
-整个课程，正如路线图所展示的这样，总共需要完成12个硬件与软件构建任务。P1-P6完成HACK Computer(A simple but sufficiently powerful computer system)硬件的搭建；P7-P12完成从虚拟机，编译器，到操作系统的搭建。
+整个课程，正如路线图所展示的，总共需要完成12个硬件与软件构建任务。P1-P6完成HACK Computer(A simple but sufficiently powerful computer system)硬件的搭建；P7-P12完成从虚拟机，编译器，到操作系统的搭建。
 </div>
 
 硬件部分路线图
