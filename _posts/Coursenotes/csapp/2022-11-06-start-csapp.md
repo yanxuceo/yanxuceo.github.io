@@ -21,7 +21,7 @@ Check byte-encoding instructions, disassembler:
 $ objdump -d mstore.o
 ```
 
-<img src="/assets/img/x86_64_integer_registers.png" alt="integer_register" width="200"/>
+<img src="/assets/img/x86_64_integer_registers.png" alt="integer_register" width="400"/>
 
 The original 8086 had 16-bit registers, from %ax through %bp; with the extension to IA32, these registers were expanded to 32-bit registers, as labeled %eax through %ebp. For x86-64, they begin with %r.
 
