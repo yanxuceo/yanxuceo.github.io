@@ -1,6 +1,7 @@
 <!--
   The Side Bar
 -->
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <div id="sidebar" class="d-flex flex-column align-items-end">
   <div class="profile-wrapper text-center">
@@ -37,6 +38,18 @@
         <span>{{ site.data.locales[lang].tabs.home | upcase }}</span>
       </a>
     </li>
+
+    <li>
+      <span id="busuanzi_container_site_pv" style="color:#aaa">
+        <i class="fa fa-paw"></i> 总访问量: <span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>
+      </span>
+    </li>
+    <li>
+      <span id="busuanzi_container_site_uv" style="color:#aaa">
+          <i class="fa fa-user"></i> 总访问人数: <span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>
+      </span>
+    </li>
+    
     <!-- the real tabs -->
     {% for tab in site.tabs %}
     <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
