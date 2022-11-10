@@ -6,8 +6,8 @@ categories: [Side Projects, Smart Home]
 tags: [IOT, Smart Home, Raspberry Pi]
 ---
 
-# Demo
+# Demo video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/yoAAHgH8IiY/0.jpg)](https://www.youtube.com/watch?v=yoAAHgH8IiY "An Smart Voice Weight Scale")
+[![This is version 1.0 demo](http://img.youtube.com/vi/yoAAHgH8IiY/0.jpg)](https://www.youtube.com/watch?v=yoAAHgH8IiY "An Smart Voice Weight Scale")
 
 
