@@ -39,17 +39,8 @@
       </a>
     </li>
 
-    <li>
-      <span id="busuanzi_container_site_pv" style="color:#aaa">
-        <i class="fa fa-paw"></i> 总访问量: <span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>
-      </span>
-    </li>
-    <li>
-      <span id="busuanzi_container_site_uv" style="color:#aaa">
-          <i class="fa fa-user"></i> 总访问人数: <span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>
-      </span>
-    </li>
     
+
     <!-- the real tabs -->
     {% for tab in site.tabs %}
     <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
@@ -61,6 +52,17 @@
       </a>
     </li> <!-- .nav-item -->
     {% endfor %}
+
+    <li>
+      <span id="busuanzi_container_site_pv" style="color:#aaa">
+        <i class="fa fa-paw"></i> views: <span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>
+      </span>
+    </li>
+    <li>
+      <span id="busuanzi_container_site_uv" style="color:#aaa">
+          <i class="fa fa-user"></i> visitors: <span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>
+      </span>
+    </li>
 
   </ul> <!-- ul.nav.flex-column -->
 
