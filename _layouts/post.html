@@ -27,6 +27,9 @@ tail_includes:
       {{ site.data.locales[lang].post.updated }}
       {% include datetime.html date=page.last_modified_at tooltip=true %}
     </span>
+
+
+    <span id="busuanzi_value_page_pv">views:<i class="fa fa-spinner fa-spin"></i></span>
     {% endif %}
 
   {% if page.image.path %}
@@ -34,7 +37,7 @@ tail_includes:
       {% unless page.image.no_bg %}{{ 'bg' }}{% endunless %}
     {% endcapture %}
 
-    <span id="busuanzi_container_page_pv">views:<span id="busuanzi_value_page_pv"></span></span>
+  
 
     <div class="mt-3 mb-3">
       <img src="{{ page.image.path }}" class="preview-img {{ bg | strip }}"
