@@ -2,12 +2,12 @@
 layout: post
 title: "[German Learning] Deutschtrainer A1/A2"
 date: 2022-11-11 00:21:14 +0800
-categories: [Course Notes, German]
+categories: [Life in Germany, German Language]
 tags: [German Language, German Beginner Level]
 ---
 
-A1/A2 Beginner Level from [Deutsch lernen mit der DW](https://www.youtube.com/watch?v=b245wpgcnCs&list=PLs7zUO7VPyJ6DriUjBzat65Vtr89it2wX&index=1)
-
+A1/A2 Beginner Level from [Deutsch lernen mit der DW](https://www.youtube.com/watch?v=b245wpgcnCs&list=PLs7zUO7VPyJ6DriUjBzat65Vtr89it2wX&index=1) 
+Copyright to [DW channel](https://www.youtube.com/user/dwlearngerman)
 
 ## 1. Sich vorstellen 自我介绍
 der Name - der Vorname - der Nachname  <br />
@@ -105,7 +105,7 @@ Das liegt in Ostdeutschland.- 它在德国的东部. <br />
 
 
 Wir wohnen in einem Dorf. - the village/das Dorf - 我们住在一个村子里. <br />
-Ich wohen auf dem Land.  我住在乡下. <br />
+Ich wohne auf dem Land.  我住在乡下. <br />
 
 
 Wo ist das? <br />
