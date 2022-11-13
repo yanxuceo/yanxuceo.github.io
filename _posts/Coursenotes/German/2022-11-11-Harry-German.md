@@ -36,23 +36,23 @@ Harry tries to break into Dr. Anderson's office.
 der Einbrecher - the burglar - 窃贼 <br />
 
 ### conversation
-Woman: Moment mal! Was machen Sie da an der Tür? Wieso haben Sie einen Draht in der hand? Sie, sie sind ein Einbrecher! Sie wollen in das Büro einbrechen! <br />
-Harry: Ich bin kein Einbrecher! <br />
-Woman: Das glaube ich Ihnen nicht! <br />
-Harry: Ich habe einen Termin bei Dr. Anderson. <br />
-Woman: Ich kenne Dr. Andersons Terminkalender, denn ich bin seine Sekretärin. <br />
-Harry: Ah, ich habe viel von Ihnen gehört. <br />
-Woman: Ach ja? <br />
-Harry: Oh ja, Dr. Anderson hat gesagt: Meine Sekretären ist fleißig - nein, meine Sekretärin ist am fleißigsten! <br />
-Woman: Ja? Wirklich? Das hat Anderson über mich gesagt? <br />
-Harry: Ja, und er hat gesagt: Meine Sekretärin ist shr freundlich, sie macht Ihnen die Tür auf. <br />
-Woman: Also, wenn es so ist. Wer sind Sie eigentlich? <br />
-Harry: Oh, ich bin ein Kollege. Mein Name ist Harry Walkott, Professor Harry Walkott. <br />
-Woman: Ich habe Sie aber noch nie gesehen. <br />
-Harry: Ich komme aus Traponia. Ich bin Zeitschleifen Experte. Ich bin Universitätsprofessor, wie Dr. Anderson. <br />
-Woman: Na dann... Möchten Sie einen Kaffee, Herr Professor? Ich mache Ihnen gerne einen. <br />
-Harry: Einen Kaffee? Aber ja! Das ist sehr freundlich.  <br />
-Woman: Ich bin gleich wieder da. Fühlen Sie sich wie zu Hause.
+_Woman_: Moment mal! Was machen Sie da an der Tür? Wieso haben Sie einen Draht in der hand? Sie, sie sind ein Einbrecher! Sie wollen in das Büro einbrechen! <br />
+_Harry_: Ich bin kein Einbrecher! <br />
+_Woman_: Das glaube ich Ihnen nicht! <br />
+_Harry_: Ich habe einen Termin bei Dr. Anderson. <br />
+_Woman_: Ich kenne Dr. Andersons Terminkalender, denn ich bin seine Sekretärin. <br />
+_Harry_: Ah, ich habe viel von Ihnen gehört. <br />
+_Woman_: Ach ja? <br />
+_Harry_: Oh ja, Dr. Anderson hat gesagt: Meine Sekretärin ist fleißig - nein, meine Sekretärin ist am fleißigsten! <br />
+_Woman_: Ja? Wirklich? Das hat Anderson über mich gesagt? <br />
+_Harry_: Ja, und er hat gesagt: Meine Sekretärin ist shr freundlich, sie macht Ihnen die Tür auf. <br />
+_Woman_: Also, wenn es so ist. Wer sind Sie eigentlich? <br />
+_Harry_: Oh, ich bin ein Kollege. Mein Name ist Harry Walkott, Professor Harry Walkott. <br />
+_Woman_: Ich habe Sie aber noch nie gesehen. <br />
+_Harry_: Ich komme aus Traponia. Ich bin Zeitschleifen Experte. Ich bin Universitätsprofessor, wie Dr. Anderson. <br />
+_Woman_: Na dann... Möchten Sie einen Kaffee, Herr Professor? Ich mache Ihnen gerne einen. <br />
+_Harry_: Einen Kaffee? Aber ja! Das ist sehr freundlich.  <br />
+_Woman_: Ich bin gleich wieder da. Fühlen Sie sich wie zu Hause.
 
 
 
