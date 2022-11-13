@@ -146,3 +146,170 @@ Ich bin verheiratet. 我已婚. <br />
 
 Ich bin ledig. 我单身. <br />
 
+
+## 8. Zuwanderung 移民(Immigration)
+Ich möchte Asyl beantragen.  我想申请避难. <br />
+beantragen: apply for; asyl: asylum <br />
+
+der Flüchtling - 难民  <br />
+
+befristet 暂时的, 限制期限的 <br />
+<img src="/assets/img/GermanLearn/befristet.png" alt="befristet, temporary" width="400"/> <br />
+
+befristeter Aufenthalt 期限居留 <br />
+
+unbefristet 不期限的 <br />
+
+die Duldung 容忍居留<br />
+
+die Aufenthaltserlaubnis  居留许可<br />
+
+Ich habe eine Aufenthaltserlaubnis. <br />
+
+Meine Aufenthaltserlaubnis ist abgelaufen. 我的居留许可过期了.<br />
+
+Ich möchte sie verlängern. 我想要延长.<br />
+
+die Arbeitserlaubnis 工作许可 <br />
+
+die Unterschrift 签名<br />
+
+das Formular - die Dokumente <br />
+
+__der__ Pass 护照 - __das__ Visum 签证- die Staatsbürgerschaft 国籍<br />
+
+
+## 9. Um Hilfe bitten 请求帮助
+Entschuldigung, kannst du mir helfen? <br />
+Entschuldigung, können Sie mir helfen? <br />
+
+Ja, natürlich. <br />
+
+Vielen Dank. <br />
+
+Ich habe eine Frage. Wissen Sie, wo das ist? 您知道,这在哪里吗? <br />
+
+Leider nicht. <br />
+
+Ich spreche kein Deutsch. <br />
+
+Ich verstehe das nicht. <br />
+
+Was bedeutet das? 这是什么意思? <br />
+
+Wie bitte? 你说什么?<br />
+
+Können Sie das wiederholen bitte? 您能重复一遍吗? <br />
+
+Können Sie bitte langsamer sprechen?  <br />
+
+Entschuldigung, sprechen Sie Englisch? <br />
+
+Entschuldigung, wo ist die Information? <br />
+
+
+## 10. Deutsch lernen 学习德语
+die deutsche Sprache 德语  <br />
+
+die Grammatik 语法 - die Vokabeln 词汇<br />
+
+__der__ Deutschkurs <br />
+
+Ich möchte mich für einen Kurs anmelden. 我想要报名参加学习班. <br />
+
+Ich möchte Deutsch lernen. <br />
+Ich lerne Deutsch.  <br />
+
+Ich spreche ein bisschen Deutsch. <br />
+
+Ich spreche __kein__ Deutsch. <br />
+Ich spreche Englisch. <br />
+Ich spreche Arabisch. <br />
+
+die Niveaustufe - the level 级别 <br />
+
+die Lehrerin 女老师 - die Pfüfung 考试- die Fremdsprache 外语 <br />
+
+
+## 11. Arbeit und Beruf 工作和职业
+__der__ Beruf  <br />
+Was machst du beruflich? - Was machen Sie beruflich?  <br />
+
+Was bist du von beruf? - Was sind Sie von beruf? <br />
+
+Ich bin Bauarbeiter. 建筑工人 - Ich bin Polizistin. 女警察 <br />
+
+Ich bin arbeitslos. 我没有工作. <br />
+
+Ich studiere. 我上大学.  <br />
+
+Ich mache eine Ausbildung.  我在进行职业培训. <br />
+
+arbeiten 上班 - die Arbeit 工作 <br />
+Ich suche Arbeit.     <br />
+
+
+## 12. Berufe 职业
+die Ärztin 女医生 <br />
+Ich bin Ärztin. <br />
+
+der Lehrer <br />
+Ich möchte Lehrer werden.  我想当一名教师. <br />
+
+die Erzieherin 幼儿园女老师 <br />
+
+der Krankenpfleger 男护士 <br />
+
+die Journalistin 女记者  <br />
+ 
+der Ingenieur 工程师  <br />
+
+die Computerspezialistin  <br />
+
+der Architekt  建筑师<br />
+
+die Taxifahrerin  <br />
+der Busfahrer    <br />
+
+die Friseurin  女理发师  <br />
+
+der Koch 厨师 <br />
+
+die Verkäuferin 女售货员 <br />
+
+der Kfz-Mechatroniker 汽车机械工程师 <br />
+
+die Handwerkerin 女技工 <br />
+
+
+## 13. Telefon und E-Mail 电话和邮件
+die Telefonnummer <br />
+
+Wie ist deine Telefonnummer? - Wie ist Ihre Telefonnummer? <br />
+
+Meine Telefonnummer ist 07354555777. <br />
+
+die E-Mail-Adresse <br />
+Kannst du __mir__ deine E-Mail-Adresse __geben__? 你能给我你的电子邮件地址吗? <br />
+
+Wie ist Ihre E-Mail-Adresse? <br />
+Meine E-Mail-Adresse ist hallo@dw.com. <br />
+
+anrufen 打电话<br />
+Kann ich __dich__ anrufen? - Kann ich Sie anrufen? - Ich rufe dich an. <br />
+
+das Handy - die Handy-Nummer <br />
+
+Ich habe kein Handy. <br />
+Ich habe keine E-Mail-Adresse. <br />
+
+Bist du auf Facebook? 你用脸书吗？<br />
+Hast du WhatsApp?   <br />
+
+
+
+ 
+
+
+
+
