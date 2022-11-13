@@ -81,7 +81,7 @@ Ich brauche Hilfe. <br />
 Woher kommst du? - Woher kommen Sie? <br />
 Ich komme aus Russland. <br />
 Wir kommen aus der Türkei. <br />
-Ich komme aus der Nähe von Berlin. 我来自柏林附近地区.
+Ich komme aus der Nähe von Berlin. 我来自柏林附近地区. <br />
 
 <img src="/assets/img/GermanLearn/Ich_komme_aus_Berlin.png" alt="ich komme aus Berlin." width="400"/> <br />
 
@@ -100,7 +100,7 @@ Wo wohnst du?  - Wo wohnen Sie? <br />
 
 Ich wohne in Berlin. <br />
 
-Das liegt in Ostdeutschland.- 它在德国的东部.
+Das liegt in Ostdeutschland.- 它在德国的东部. <br />
 <img src="/assets/img/GermanLearn/Ostdeutschland.png" alt="Das liegt in Ostdeutschland" width="400"/> <br />
 
 
@@ -109,11 +109,11 @@ Ich wohen auf dem Land.  我住在乡下. <br />
 
 
 Wo ist das? <br />
-Das ist in Bayern. 
+Das ist in Bayern.  <br />
 <img src="/assets/img/GermanLearn/Bayern.png" alt="Das ist in Bayern." width="400"/> <br />
 
 
-das Bundesland 德国的联邦州
+das Bundesland 德国的联邦州 <br />
 <img src="/assets/img/GermanLearn/Bundesland.png" alt="das Bundesland" width="400"/> <br />
 
 
