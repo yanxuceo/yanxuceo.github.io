@@ -6,8 +6,8 @@ categories: [Life in Germany, German Language]
 tags: [German Language, German Beginner Level]
 ---
 
-A1/A2 Beginner Level from [Deutsch lernen mit der DW](https://www.youtube.com/watch?v=b245wpgcnCs&list=PLs7zUO7VPyJ6DriUjBzat65Vtr89it2wX&index=1) <br />
-Copyright to [DW channel](https://www.youtube.com/user/dwlearngerman)
+A1/A2 Beginner Level from [<span style="color:#3ababa">Deutsch lernen mit der DW</span>](https://www.youtube.com/watch?v=b245wpgcnCs&list=PLs7zUO7VPyJ6DriUjBzat65Vtr89it2wX&index=1) <br />
+Copyright to [<span style="color:#3ababa">DW channel</span>](https://www.youtube.com/user/dwlearngerman)
 
 ## 1. Sich vorstellen 自我介绍
 der Name - der Vorname - der Nachname  <br />

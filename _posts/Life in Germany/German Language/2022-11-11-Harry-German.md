@@ -8,9 +8,9 @@ tags: [German Language]
 
 
 ## About this story
-When Harry is struck by lightning in the Black Forest(Schwarzwald), he gets stuck in a time warp. Since no one believes him that he experiences the same day over and over again, he has no choice but to solve this riddle himself. Will he manage to escape? Let's follow [this series](https://www.youtube.com/watch?v=-wAZG4LWLWI&list=PLs7zUO7VPyJ6Ufol7Z4FfkCviaETvl3c8) and find out! <br />
+When Harry is struck by lightning in the Black Forest(Schwarzwald), he gets stuck in a time warp. Since no one believes him that he experiences the same day over and over again, he has no choice but to solve this riddle himself. Will he manage to escape? Let's follow [<span style="color:#3ababa">this series</span>](https://www.youtube.com/watch?v=-wAZG4LWLWI&list=PLs7zUO7VPyJ6Ufol7Z4FfkCviaETvl3c8) and find out! <br />
 
-Copyright to [Deutsch lernen mit der DW](https://www.youtube.com/user/dwlearngerman) channel.
+Copyright to [<span style="color:#3ababa">Deutsch lernen mit der DW</span>](https://www.youtube.com/user/dwlearngerman) channel.
 
 
 ## Episode 36
