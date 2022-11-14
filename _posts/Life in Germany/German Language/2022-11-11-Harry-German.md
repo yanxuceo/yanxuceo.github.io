@@ -25,8 +25,8 @@ interessant - interessanter - am interessantesten <br />
 Harry: Anderson lügt! <br />
 A: Hey du! Halt die Klappe! Die Vorlesung war interessant! <br />
 Harry: Er lügt! <br />
-A: Wie bitter? Er lügt? Spinnst du? Andersons Vorlesung ist interessant. <br />
-B: Ja ja, seine Vorlesungen sind viel interessant als andere, viel interessanter! <br />
+A: Wie bitte? Er lügt? Spinnst du? Andersons Vorlesung ist interessant. <br />
+B: Ja ja, seine Vorlesungen sind viel interessanter als andere, viel interessanter! <br />
 A: Genau! Sie sind am interessantesten und am besten! <br />
 
 
