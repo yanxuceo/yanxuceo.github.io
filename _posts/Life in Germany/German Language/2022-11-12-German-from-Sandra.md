@@ -38,7 +38,6 @@ Xu beobachtet Sandra aus dem Augenwinkel.
 Xu ist nicht hinterhältig. Auch Sandra ist keine hinterhältige Person.
 
 - Die Pfefferminze [Plural: Die Pfefferminze] (Nomen) --> A medicinal plant which also tastes really good and fresh. Also known as "Mint", although it's not the same plant. (Eine Heilpflanze, die auch sehr gut und frisch schmeckt. Auch als "Minze" bekannt, obwohl das nicht die gleiche Pflanze ist.) <br />
-
 Xu isst gerne Kaugummi, der nach Pfefferminze schmeckt. Sandra mag Pfefferminz-Eis. --> When describing a taste, you can skip the "e" in the end. (Wenn du einen Geschmack beschreibst, kannst du das "e" am Ende weglassen.)
 
 - mürrisch (Adjektiv) --> Describes a person that is in a bad mood and doesn't hide it. (Beschreibt eine Person, die schlechte Laune hat und sie nicht versteckt.) <br />
