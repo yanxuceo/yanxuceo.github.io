@@ -11,6 +11,7 @@ Hi folks~ I am so excited to create my Blog here, and would like to share what I
 </p>
 
 <br>
+Thanks for [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)!
 GO!
 <br>
 Xu Dong 2022-05-06
