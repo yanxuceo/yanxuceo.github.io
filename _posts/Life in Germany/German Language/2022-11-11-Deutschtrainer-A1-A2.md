@@ -306,10 +306,78 @@ Ich habe keine E-Mail-Adresse. <br />
 Bist du auf Facebook? 你用脸书吗？<br />
 Hast du WhatsApp?   <br />
 
+## 14. Zahlen 数字
+die Zahl
+
+## 15. Monate  月份
+das Jahr - der Monat - die Woche - der Tag <br />
+
+der Januar - Es is Januar. - __im__ Januar <br />
+
+der Februar  <br />
+
+der März    <br />
+
+der April   <br />
+
+der Mai     <br />
+
+der Juni    <br />
+
+der Juli    <br />
+
+der August  <br />
+
+der September  <br />
+
+der Oktober    <br />
+
+der November   <br />
+
+der Dezember   <br />
+            
+der Frühling 春天 <br />
+der Sommer  <br />
+der Herbst  <br />
+der Winter  <br />
 
 
- 
+## 16. Tage 日子
+der Tag  <br />
+der Montag - __am__ Montag  <br />
+der Dienstag   <br />
+der Mittwoch   <br />
+der Donnerstag <br />
+der Freitag    <br />
+der Samstag    <br />
+der Sonntag    <br />
+
+die Woche - diese Woche - nächste Woche <br />
+das Wochenende 周末    <br />
+am Wochenende  在周末  <br />
+
+heute - gestern - vorgestern - morgen - übermorgen  <br />
 
 
+## 17. Uhrzeit 时间
+die Uhr 钟表 <br /> 
+Entschuldigung, wie viel Uhr ist es?   <br />
+
+Entschuldigung, wie spät ist es?  <br />
+
+
+Es ist zwei Uhr.  <br />
+Es ist 14 Uhr.    <br />
+Es ist Viertel nach acht. 现在是八点一刻. <br />
+Es ist halb drei.  现在是两点半. <br />
+Es ist Viertel vor zwölf. - 11:45.  <br />
+Es ist zwanzig vor zehn. - 09:40.   <br />
+Es ist zehn nach sieben. - 03:10.   <br />
+
+Wir treffen __uns__ um 15 Uhr.  <br />
+
+die Stunde  小时  <br />
+Das dauert eine halbe Stunde.   <br />
+<img src="/assets/img/GermanLearn/halbe_stunde.PNG" alt="befristet, temporary" width="400"/> <br />
 
 
