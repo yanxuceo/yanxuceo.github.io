@@ -356,7 +356,7 @@ die Woche - diese Woche - nächste Woche <br />
 das Wochenende 周末    <br />
 am Wochenende  在周末  <br />
 
-heute - gestern - vorgestern - morgen - übermorgen  <br />
+vorgestern - gestern - heute - morgen - übermorgen  <br />
 
 
 ## 17. Uhrzeit 时间
