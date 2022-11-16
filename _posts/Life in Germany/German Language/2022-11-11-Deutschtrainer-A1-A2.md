@@ -313,27 +313,16 @@ die Zahl
 das Jahr - der Monat - die Woche - der Tag <br />
 
 der Januar - Es is Januar. - __im__ Januar <br />
-
 der Februar  <br />
-
 der März    <br />
-
 der April   <br />
-
 der Mai     <br />
-
 der Juni    <br />
-
 der Juli    <br />
-
 der August  <br />
-
 der September  <br />
-
 der Oktober    <br />
-
 der November   <br />
-
 der Dezember   <br />
             
 der Frühling 春天 <br />
