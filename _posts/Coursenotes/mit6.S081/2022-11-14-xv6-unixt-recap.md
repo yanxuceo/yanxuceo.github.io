@@ -63,8 +63,11 @@ About shell
 - shell, read command -> fork a child - > exec -> wait for child -> read next command <br />
 
 
-I/O redirection
-The _close_ system call releases a file descriptor, making it free for resuse by a future _open_, _pipe_, or _dup_ system call. An newly allocated file descriptor is always the lowest numbered unused descriptor of the current process. File descriptor and _fork_ interact to make I/O redirection easy to implement. _Fork_ copies the parent's file descriptor table along with its memory, so that the child starts with exactly the same open files as the parent. They system call _exec_ replaces the calling process's memory but perserve its file table. This behavior allows the shell to implement I/O redirection by forking, reopening chosen file descriptors in the child, and the calling calling _exec_ to run the new program.
+I/O redirection <br />
+<p class="text-justify">
+The close system call releases a file descriptor, making it free for resuse by a future open, pipe, or dup system call. An newly allocated file descriptor is always the lowest numbered unused descriptor of the current process. File descriptor and fork interact to make I/O redirection easy to implement. Fork copies the parent's file descriptor table along with its memory, so that the child starts with exactly the same open files as the parent. They system call exec replaces the calling process's memory but perserve its file table. This behavior allows the shell to implement I/O redirection by forking, reopening chosen file descriptors in the child, and the calling calling exec to run the new program.
+</p>
+
 
 Example 
 ```
