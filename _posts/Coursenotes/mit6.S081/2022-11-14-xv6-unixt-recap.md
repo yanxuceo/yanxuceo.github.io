@@ -80,7 +80,7 @@ argv[1] = 0;
 if(fork() == 0) {
     close(0);
     open("input.txt", O_RDONLY);
-    exec("cat", argv);
+    exec("cat", argv);  //cat then executes with fd 0(standard input) referring to input.txt 
 }
 ```
 

@@ -361,12 +361,29 @@ Es ist Viertel nach acht. 现在是八点一刻. <br />
 Es ist halb drei.  现在是两点半. <br />
 Es ist Viertel vor zwölf. - 11:45.  <br />
 Es ist zwanzig vor zehn. - 09:40.   <br />
-Es ist zehn nach sieben. - 03:10.   <br />
+Es ist zehn nach sieben. - 07:10.   <br />
 
 Wir treffen __uns__ um 15 Uhr.  <br />
 
 die Stunde  小时  <br />
 Das dauert eine halbe Stunde.   <br />
 <img src="/assets/img/GermanLearn/halbe_stunde.PNG" alt="befristet, temporary" width="400"/> <br />
+
+
+## 18. Tagesablauf 日程
+morgens 上午 <br />
+Ich stehe um acht Uhr auf. 我早上八点起床. <br />
+
+frühstücken 吃早餐 <br />
+
+Ich putze __mir__ die Zähne. 我刷牙. <br />
+Ich dusche täglich. 我每天都洗澡. <br />
+Ich wasche __mir__ die Haare.  我洗头发. <br />
+
+Ich ziehe mich an. 我穿衣服. <br />
+
+Um neun Uhr fahre ich zur Arbeit. 我九点上班. <br />
+
+mittags
 
 
