@@ -384,6 +384,37 @@ Ich ziehe mich an. 我穿衣服. <br />
 
 Um neun Uhr fahre ich zur Arbeit. 我九点上班. <br />
 
-mittags
+mittags 中午<br />
+die Mittagspause  午休 <br />
+Um eins esse ich zu Mittag. 我一点吃午饭. <br />
+
+abends 晚上 <br />
+Ich mache um 18:30 Uhr Feierabend. 我晚上六点半下班. <br />
+Ich gehe nach Hause. <br />
+
+nachts 夜晚 <br />
+Ich gehe um 22 Uhr ins Bett. <br />
+
+## 19. Absagen 取消
+der Termin 约定的日期 <br />
+Ich hatte einen Termin.  <br />
+Ich habe einen wichtigen Termin. 我有一个重要的预约. <br />
+Ich muss den Termin leider __absagen__. 我必须得取消预约. <br />
+
+Ich kann leider nicht kommen.  可惜我不能来. <br />
+Ich __schaffe__ es leider nicht.  我做不到，我赶不到. <br />
+Mir ist etwas dazwischengekommen. 临时有点事情. <br />
+
+Ich bin krank. 我生病了. <br />
+
+Ich habe den Bus __verpasst__.  我错过了公交. <br />
+Ich komme __etwas__ später. 我会迟到一点.  <br />
+Es tut mir leid. 我很抱歉.   <br />
+Können wir das __verschieben__?  我们能推迟吗？  <br />
+
+Das ist schade. 很遗憾. <br />
+Das macht nichts.  没关系. <br />
+Wir machen einen neuen Termin.  我们重新约个日期. <br />
+
 
 
