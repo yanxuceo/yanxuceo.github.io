@@ -417,4 +417,89 @@ Das macht nichts.  没关系. <br />
 Wir machen einen neuen Termin.  我们重新约个日期. <br />
 
 
+20. Verkehrsmittel 交通工具
+der Nahverkehr 市内交通 <br />
+der Bus <br />
+Ich fahre mit dem Bus. <br />
+
+die U-Bahn <br />
+Ich nehme die U-Bahn. <br />
+
+die Straßenbahn 有轨电车 <br />
+Die Straßenbahn fährt zum Hauptbahnhof. <br />
+
+die Haltestelle 车站 <br />
+Sie müssen hier einsteigen. 您必须这里上车.  <br />
+Sie müssen hier aussteigen. 您必须这里下车.  <br />
+Sie müssen hier umsteigen. 您必须这里换乘.  <br />
+
+das Fahrrad  <br />
+Ich fahre mit dem Fahrrad.  <br />
+
+das Auto <br />
+Ich fahre mit dem Auto. <br />
+
+das Taxi <br />
+Ich nehme ein Taxi.  <br />
+
+
+21. Verreisen 去旅行
+Ich möchte verreisen. 我想去旅行.  <br />
+
+Wohin fährst du? 你去哪里？ <br />
+Ich möchte nach Berlin fahren. 我想开车去柏林. <br />
+
+Ich möchte Freunde besuchen. 我想去拜访朋友. <br />
+
+der Hauptbahnhof 中央火车站 <br />
+der Zug - die Bahn 火车 <br />
+
+Entschuldigung, fährt der Zug nach Berlin?  请问，火车是开往柏林的吗？ <br />
+
+Entschuldigung, wann fährt der Zug?  抱歉，火车什么时候开？ <br />
+Der Zug fährt um 12:30 Uhr.  <br />
+<img src="/assets/img/GermanLearn/wann_der_Zug.PNG" alt="befristet, temporary" width="400"/> <br />
+
+Der Zug hat Verspätung. 火车晚点了.  <br />
+Die Bahn fährt nach Potsdam. 这列火车开往波茨坦. <br />
+
+der ICE 城际高速列车 <br />
+Der ICE fährt nach München. <br />
+
+das Flugzeug <br />
+Ich fliege nach Ägypten. 我飞往埃及. <br />
+
+die Fähre 渡船;海运;水运 <br />
+
+
+
+22. Ein Zugticket bitte 买车票
+die Fahrkarte/das Ticket  车票 <br />
+Entschuldigung, wo kann ich eine Fahrkarte kaufen? 请问哪里可以买车票？<br />
+
+Entschuldigung, ich brauche ein Ticket nach Berlin. 打扰，我需要一张去柏林的车票.<br />
+
+Entschuldigung, wie viel kostet eine Fahrkarte nach München? 抱歉，去慕尼黑的车票多少钱？ <br />
+
+einfache Fahrt 单程 - die Einzelfahrkarte 单程票 <br />
+hin und zurück 往返 <br />
+
+Ich möchte einen Sitzplatz reservieren bitte. 我想预订一个座位. <br />
+
+das Abteil 车厢 <br />
+der Großraumwagen 开放式车厢 <br />
+
+für die erste Klasse  一等座 <br />
+für die zweite Klasse 二等座 <br />
+
+am Fenster 靠窗  -  am Gang 靠过道 <br />
+
+
+
+
+
+
+
+
+
 
