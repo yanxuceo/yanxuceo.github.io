@@ -416,8 +416,7 @@ Das ist schade. 很遗憾. <br />
 Das macht nichts.  没关系. <br />
 Wir machen einen neuen Termin.  我们重新约个日期. <br />
 
-
-20. Verkehrsmittel 交通工具
+## 20. Verkehrsmittel 交通工具
 der Nahverkehr 市内交通 <br />
 der Bus <br />
 Ich fahre mit dem Bus. <br />
@@ -442,8 +441,7 @@ Ich fahre mit dem Auto. <br />
 das Taxi <br />
 Ich nehme ein Taxi.  <br />
 
-
-21. Verreisen 去旅行
+## 21. Verreisen 去旅行
 Ich möchte verreisen. 我想去旅行.  <br />
 
 Wohin fährst du? 你去哪里？ <br />
@@ -472,8 +470,7 @@ Ich fliege nach Ägypten. 我飞往埃及. <br />
 die Fähre 渡船;海运;水运 <br />
 
 
-
-22. Ein Zugticket bitte 买车票
+## 22. Ein Zugticket bitte 买车票
 die Fahrkarte/das Ticket  车票 <br />
 Entschuldigung, wo kann ich eine Fahrkarte kaufen? 请问哪里可以买车票？<br />
 
