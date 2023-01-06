@@ -6,6 +6,11 @@ categories: [Side Projects, Smart Home]
 tags: [Alexa Developers, JavaScript, Asynchronization]
 ---
 
+
+Contents from this book [<span style="color:#3ababa">JavaScript: The Definitive Guide, 7th Edition</span>](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/) channel.
+
+
+
 <span style="color:#3ababa">Promises</span> are objects that represent the not-yet-available result of an asynchronous operation. The keywords <span style="color:#3ababa">async</span> and <span style="color:#3ababa">await</span> simplify asynchronous programming by allowing you to structure your Promise-based code as if it was synchronous. Finally, the <span style="color:#3ababa">for/await</span> loop allow you to work with streams of asynchronous events using simple loops that appear synchronous.
 
 
@@ -41,6 +46,11 @@ Node.js asynchronous example: reading the contents of a file. fs.readFile() take
 
 Example to request for the contents of a URL in Node. Node uses <span style="color:#3ababa">on()</span> method to register event listeners instead of <span style="color:#3ababa">addEventListener()</span>.
 
-<img src="/assets/img/JavaScript/network_callback_example_2.PNG" alt="network callback example" width="400"/> <br />
+<img src="/assets/img/JavaScript/network_callback_example_2.PNG" alt="network callback example" width="400"/> 
 <img src="/assets/img/JavaScript/network_callback_example_2.PNG" alt="network callback example" width="400"/> <br />
 
+
+## 2. Promises
+A Promise is an object that represents the result of an asynchronous computation. That result may or may not be ready yet, and the Promise API is intentionally vague about this: there is no way to synchronously get the value of a Promise; you can only ask the Promise to call a callback function when the value is ready. <br />
+
+To make it Promise-based, omit the callback argument, and instead return a Promise object. The caller can then register one or more callbacks on this Promise object, and they will be invoked when the asynchronous computation is done. 
