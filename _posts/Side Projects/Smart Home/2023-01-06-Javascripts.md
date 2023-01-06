@@ -90,7 +90,7 @@ getJSON("/api/user/profile").then(displayUserProfile, handleProfileError);
 we say that the Promise has been <span style="color:#3ababa">fulfilled</span> if and when the first callback is called; we say that the Promise has been <span style="color:#3ababa">rejected</span> if and when the second callback is called; if a Promise is neither fulfilled nor rejected, then it is <span style="color:#3ababa">pending</span>. And once a promise is fulfilled or rejected, we say that it is <span style="color:#3ababa">settled</span>. 
 
 
-#### Chaining Promises
+### Chaining Promises
 Promise provides a natural way to express a sequence of asynchronous operations as a linear chain of <span style="color:#3ababa">then()</span> method invocations, without having to nest each operation within the callback of the previous one. <br />
 
 
@@ -116,11 +116,19 @@ But just because task 2 begins when c1 is invoked, it does not mean that task 2 
 
 <img src="/assets/img/JavaScript/promise_example_4.PNG" alt="promise example" width="400"/> 
 
-About <span style="color:#3ababa">resolved</span>
+About <span style="color:#3ababa">resolved</span>:
 
 <img src="/assets/img/JavaScript/promise_example_3.PNG" alt="promise example" width="400"/> 
 
 
+### Promises in Parallel
+Sometimes we want to execute a number of asynchronous operations on parallel.
+
+### Making Promises
+
+### Promises in Sequence
 
 
+## 3. async and await
+These new keywords dramatically simplify the use of Promises and allow us to write Promise-based, asynchronous code that look like synchronous code that blocks while waiting for network response or other asynchronous events.
 
