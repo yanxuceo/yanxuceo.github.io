@@ -99,4 +99,26 @@ Example to illustrate how a chain of Promises can make it easy to express a sequ
 <img src="/assets/img/JavaScript/promise_example_2.PNG" alt="promise example" width="400"/> 
 
 
+Method chain example:
+```
+fetch().then().then()
+```
+
+We know that the <span style="color:#3ababa">fetch()</span> function returns a Promise object, and we can see that the first <span style="color:#3ababa">.then()</span> in this chain invokes a method on that returned Promise object. But there is a second <span style="color:#3ababa">.then()</span> in the chain, which means that the first invocation of the then() method must itself return a Promise. 
+
+```
+fetch(theURL)           // task 1; returns promise 1
+    .then(callback1)    // task 2; returns promise 2
+    .then(callback2);   // task 3; returns promise 3
+```
+
+But just because task 2 begins when c1 is invoked, it does not mean that task 2 must end when c1 returns. Promises are about managing asynchronous tasks, after all, and if task 2 is asynchronous (which it is, in this case), then that task will not be complete by the time the callback returns.
+
+<img src="/assets/img/JavaScript/promise_example_4.PNG" alt="promise example" width="400"/> 
+
+<img src="/assets/img/JavaScript/promise_example_3.PNG" alt="promise example" width="400"/> 
+
+
+
+
 
