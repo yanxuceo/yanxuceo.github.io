@@ -73,8 +73,20 @@ getJSON(url).then(jsonData => {
 <img src="/assets/img/JavaScript/promise_example_0.PNG" alt="promise example" width="400"/> 
 
 *Handling Errors with Promises* <br />
-Asynchronous operations can fail in a number of ways, and robust code has to be written to handle the errors that will inevitably occur. For Promises, we can do this by passing a second function to the <span style="color:#3ababa">then()</span> method.
+Callback vs. Promise <br />
+When something goes wrong in a synchronous computation, it throws an exception that propagates up the call stack until there is a catch
+clause to handle it. When an asynchronous computation runs, its caller is no longer on the stack, so if something goes wrong, it is simply not possible to throw an exception back to the caller.
+
+Asynchronous operations can fail in a number of ways, and robust code has to be written to handle the errors that will inevitably occur. 
+When a Promise-based asynchronous computation completes normally, it passes its result to the function that is the first argument to <span style="color:#3ababa">then()</span>. For Promises, we can do this by passing a second function to the <span style="color:#3ababa">then()</span> method for error handling.
 
 ```
 getJSON("/api/user/profile").then(displayUserProfile, handleProfileError);
 ```
+
+<img src="/assets/img/JavaScript/promise_example_1.PNG" alt="promise example" width="400"/> 
+
+
+
+
+
