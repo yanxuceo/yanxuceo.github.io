@@ -53,4 +53,9 @@ Example to request for the contents of a URL in Node. Node uses <span style="col
 ## 2. Promises
 A Promise is an object that represents the result of an asynchronous computation. That result may or may not be ready yet, and the Promise API is intentionally vague about this: there is no way to synchronously get the value of a Promise; you can only ask the Promise to call a callback function when the value is ready. <br />
 
-To make it Promise-based, omit the callback argument, and instead return a Promise object. The caller can then register one or more callbacks on this Promise object, and they will be invoked when the asynchronous computation is done. 
+To make it Promise-based, omit the callback argument, and instead return a Promise object. The caller can then register one or more callbacks on this Promise object, and they will be invoked when the asynchronous computation is done. <br />
+
+callbacks drawbacks:
+- nested callback, not clean
+- difficult error handlings
+
