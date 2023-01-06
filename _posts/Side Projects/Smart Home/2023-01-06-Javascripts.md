@@ -61,4 +61,20 @@ callbacks drawbacks:
 - difficult error handlings
 
 ### Using Promises
+The function you pass to <span style="color:#3ababa">then()</span> is invoked asynchronously, even if the asynchronous computation is already complete when you call <span style="color:#3ababa">then()</span>.
 
+```
+getJSON(url).then(jsonData => {
+    // This is a callback function that will be asynchronously
+    // invoked with the parsed JSON value when it becomes available.
+});
+```
+
+<img src="/assets/img/JavaScript/promise_example_0.PNG" alt="promise example" width="400"/> 
+
+*Handling Errors with Promises* <br />
+Asynchronous operations can fail in a number of ways, and robust code has to be written to handle the errors that will inevitably occur. For Promises, we can do this by passing a second function to the <span style="color:#3ababa">then()</span> method.
+
+```
+getJSON("/api/user/profile").then(displayUserProfile, handleProfileError);
+```
