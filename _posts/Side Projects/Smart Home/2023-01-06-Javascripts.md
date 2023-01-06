@@ -41,6 +41,7 @@ getCurrentVersionNumber() makes an asynchronous request, it cannot synchronously
 
 ### Callbacks and Events in Node
 Node.js asynchronous example: reading the contents of a file. fs.readFile() takes a two-parameter callback as its last argument.
+
 <img src="/assets/img/JavaScript/network_callback_example_1.PNG" alt="network callback example" width="400"/> <br />
 
 
@@ -58,4 +59,6 @@ To make it Promise-based, omit the callback argument, and instead return a Promi
 callbacks drawbacks:
 - nested callback, not clean
 - difficult error handlings
+
+### Using Promises
 
