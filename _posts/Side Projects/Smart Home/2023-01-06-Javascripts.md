@@ -116,6 +116,8 @@ But just because task 2 begins when c1 is invoked, it does not mean that task 2 
 
 <img src="/assets/img/JavaScript/promise_example_4.PNG" alt="promise example" width="400"/> 
 
+About <span style="color:#3ababa">resolved</span>
+
 <img src="/assets/img/JavaScript/promise_example_3.PNG" alt="promise example" width="400"/> 
 
 
