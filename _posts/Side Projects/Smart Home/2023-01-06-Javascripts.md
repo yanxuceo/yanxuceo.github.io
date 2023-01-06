@@ -86,7 +86,17 @@ getJSON("/api/user/profile").then(displayUserProfile, handleProfileError);
 
 <img src="/assets/img/JavaScript/promise_example_1.PNG" alt="promise example" width="400"/> 
 
+*Promise Terminology*
+we say that the Promise has been <span style="color:#3ababa">fulfilled</span> if and when the first callback is called; we say that the Promise has been <span style="color:#3ababa">rejected</span> if and when the second callback is called; if a Promise is neither fulfilled nor rejected, then it is <span style="color:#3ababa">pending</span>. And once a promise is fulfilled or rejected, we say that it is <span style="color:#3ababa">settled</span>. 
 
+
+#### Chaining Promises
+Promise provides a natural way to express a sequence of asynchronous operations as a linear chain of <span style="color:#3ababa">then()</span> method invocations, without having to nest each operation within the callback of the previous one. <br />
+
+
+Example to illustrate how a chain of Promises can make it easy to express a sequence of asynchronous operations
+
+<img src="/assets/img/JavaScript/promise_example_2.PNG" alt="promise example" width="400"/> 
 
 
 
