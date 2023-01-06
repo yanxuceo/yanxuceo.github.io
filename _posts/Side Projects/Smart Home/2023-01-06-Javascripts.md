@@ -47,7 +47,7 @@ Node.js asynchronous example: reading the contents of a file. fs.readFile() take
 Example to request for the contents of a URL in Node. Node uses <span style="color:#3ababa">on()</span> method to register event listeners instead of <span style="color:#3ababa">addEventListener()</span>.
 
 <img src="/assets/img/JavaScript/network_callback_example_2.PNG" alt="network callback example" width="400"/> 
-<img src="/assets/img/JavaScript/network_callback_example_2.PNG" alt="network callback example" width="400"/> <br />
+<img src="/assets/img/JavaScript/network_callback_example_3.PNG" alt="network callback example" width="400"/> <br />
 
 
 ## 2. Promises
