@@ -35,6 +35,9 @@ Another common source of asynchrony in JavaScript programming is network request
 getCurrentVersionNumber() makes an asynchronous request, it cannot synchronously return the value that the caller is interested in. Instead, the caller passes a callback function, which is invoked when the result is ready or when an error occurs.
 
 ### Callbacks and Events in Node
+Node.js asynchronous example: reading the contents of a file. fs.readFile() takes a two-parameter callback as its last argument.
+<img src="/assets/img/JavaScript/network_callback_example_1.PNG" alt="network callback example" width="400"/> <br />
+
 
 
 
