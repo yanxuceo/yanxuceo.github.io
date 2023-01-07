@@ -132,3 +132,65 @@ Sometimes we want to execute a number of asynchronous operations on parallel.
 ## 3. async and await
 These new keywords dramatically simplify the use of Promises and allow us to write Promise-based, asynchronous code that look like synchronous code that blocks while waiting for network response or other asynchronous events.
 
+### await Expressions
+The <span style="color:#3ababa">await</span> keyword takes a Promise and turns it back into a return value or a thrown exception. Given a Promise object p, the <span style="color:#3ababa">await p</span> waits until p settels. If p fulfills, then the value of <span style="color:#3ababa">await p</span> is the fulfillment value of p. If p is rejected, then the <span style="color:#3ababa">await p</span> throws the rejection value of p. <br />
+
+It literally does nothing until the specified Promise settles. The code remains asynchronous, and the await simply disguises this fact. This means that any code that uses await is itself asynchronous.
+
+```
+let response = await fetch("/api/user/profile");
+let profile = await response.json();
+```
+
+### async Functions
+Because any code that uses <span style="color:#3ababa">await</span> is asynchronous, there is one critical rule: you can only use the <span style="color:#3ababa">await</span> keyword within functions that have been declared with the <span style="color:#3ababa">async</span> keyword. <br />
+
+Declaring a function <span style="color:#3ababa">async</span> means that the return value of the function will be a <span style="color:#3ababa">Promise</span> even if no Promise-related code appears in the body of the function.
+
+```
+async function getHighScore() {
+    let response = await fetch("/api/user/profile");
+    let profile = await response.json();
+    return profile.highScore;
+}
+```
+
+The getHighScore() function is declared async, so it returns a Promise. And because it returns a Promise, we can use the await keyword with it:
+```
+displayHighScore(await getHighScore());
+```
+
+### Awaiting Multiple Promises
+Given this getJSON() function:
+```
+async function getJSON(url) {
+    let response = await fetch(url);
+    let body = await response.json();
+    return body;
+}
+```
+
+Now suppose we want to fetch two JSON values with this function:
+```
+let value1 = await getJSON(url1);
+let value2 = await getJSON(url2);
+```
+
+*Issue*: <br />
+It is unnecessarily sequential: the fetch of the second URL will not begin until the first fetch is complete. If the second URL does not depend on the value obtained from the first URL, then we should probably try to fetch the two values at the same time. <br />
+
+*Solution*: <br />
+In order to await a set of concurrently executing <span style="color:#3ababa">async</span> functions, we use <span style="color:#3ababa">Promise.all()</span> just as we would if working with Promises directly:
+```
+let [value1, value2] = await Promise.all([getJSON(url1), getJSON(url2)]);
+```
+
+
+
+
+
+
+
+
+
+
