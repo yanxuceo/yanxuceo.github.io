@@ -125,6 +125,30 @@ About <span style="color:#3ababa">resolved</span>:
 Sometimes we want to execute a number of asynchronous operations on parallel.
 
 ### Making Promises
+This section shows how you can create your own Promise-based APIs.
+
+#### Promises Based On Other Promises
+Given a Promise, you can always create a new one by calling <span style="color:#3ababa">.then()</span>.
+```
+//Promise returned by getJSON() resolves to the Promise returned by response.json(). 
+function getJSON(url) {
+    return fetch(url).then(response => response.json());
+}
+```
+
+#### Promises Based On Synchronous Values
+Sometimes, you may need to implement an existing Promise-based API and return a Promise from a function, even though the computation to be performed does not actually require any asynchronous operations. <br />
+
+<span style="color:#3ababa">Promise.resolve()</span> and <span style="color:#3ababa">Promise.reject()</span>
+
+Promise.resolve() takes a value as its single argument and returns a Promise that will immediately(but asynchronously) be fulfilled to that value. 
+
+*To be clear*: <br />
+The Promises returned by these static methods are not already fulfilled or rejected when they are returned, but they will fulfill or reject immediately after the current synchronous chunk of code has finished running. Typically, this happens within a few milliseconds unless there are many pending asynchronous tasks waiting to run.
+
+
+
+
 
 ### Promises in Sequence
 
@@ -185,7 +209,29 @@ In order to await a set of concurrently executing <span style="color:#3ababa">as
 let [value1, value2] = await Promise.all([getJSON(url1), getJSON(url2)]);
 ```
 
+### Implementation details
+To think about what is going on under the hood. Suppose you write an <span style="color:#3ababa">async</span> like this:
+```
+async function f(x) { /* body */ }
+```
+You can think of this as a Promise-returning function wrapped around the body of your original function:
+```
+function f(x) {
+    return new Promise(function(resolve, reject) {
+        try {
+            resolve((function(x) { /* body */ })(x));
+        }
+        catch(e) {
+            reject(e);
+        }
+    });
+}
+```
 
+## 4. Asynchronous iteration
+Promises are useful for single-shot asynchronous computations but were not suitable for use with resources of repetitive asynchronous events, such as <span style="color:#3ababa">setInterval()</span>, the "click" event in a web browser, or the "data" event on a Node stream. Because single Promises do not work for sequences of asynchronous events, we also cannot use regular <span style="color:#3ababa">async</span> functions and the <span style="color:#3ababa">await</span> statements for these things. 
+
+### The for/await Loop
 
 
 
