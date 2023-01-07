@@ -144,8 +144,12 @@ Sometimes, you may need to implement an existing Promise-based API and return a 
 Promise.resolve() takes a value as its single argument and returns a Promise that will immediately(but asynchronously) be fulfilled to that value. 
 
 *To be clear*: <br />
-The Promises returned by these static methods are not already fulfilled or rejected when they are returned, but they will fulfill or reject immediately after the current synchronous chunk of code has finished running. Typically, this happens within a few milliseconds unless there are many pending asynchronous tasks waiting to run.
+The Promises returned by these static methods are not already fulfilled or rejected when they are returned, but they will fulfill or reject immediately after the current synchronous chunk of code has finished running. Typically, this happens within a few milliseconds unless there are many pending asynchronous tasks waiting to run. <br />
 
+It is fairly common to have synchronous special cases within an asynchronous function, and you can handle these special cases with Promise.resolve() and Promise.reject(). 
+
+#### Promises from Scratch
+what about writing a Promise-returning function when you can't use another Promise-returning function as the starting point? In that case, you use the <span style="color:#3ababa">Promise()</span> constructor to create a new Promise object that you have complete control over.
 
 
 
