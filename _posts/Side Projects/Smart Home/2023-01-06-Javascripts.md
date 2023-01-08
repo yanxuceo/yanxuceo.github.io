@@ -178,17 +178,8 @@ function wait(duration) {
 
 This getJSON() example illustrates how we can implement Promise-based APIs on top of other styles of asynchronous programming.
 
-<img src="/assets/img/JavaScript/promise_example_6.PNG" alt="promise example" width="400"/> 
-<img src="/assets/img/JavaScript/promise_example_7.PNG" alt="promise example" width="400"/> 
-
-
-
-
-
-
-
-
-
+<img src="/assets/img/JavaScript/promise_example_6.PNG" alt="promise example" width="500"/> 
+<img src="/assets/img/JavaScript/promise_example_7.PNG" alt="promise example" width="500"/> 
 
 ### Promises in Sequence
 
