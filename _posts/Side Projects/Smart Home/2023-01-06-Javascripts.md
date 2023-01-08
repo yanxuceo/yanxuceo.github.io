@@ -149,7 +149,15 @@ The Promises returned by these static methods are not already fulfilled or rejec
 It is fairly common to have synchronous special cases within an asynchronous function, and you can handle these special cases with Promise.resolve() and Promise.reject(). 
 
 #### Promises from Scratch
-what about writing a Promise-returning function when you can't use another Promise-returning function as the starting point? In that case, you use the <span style="color:#3ababa">Promise()</span> constructor to create a new Promise object that you have complete control over.
+what about writing a Promise-returning function when you can't use another Promise-returning function as the starting point? In that case, you use the <span style="color:#3ababa">Promise()</span> constructor to create a new Promise object that you have complete control over. 
+
+Alexa skill example:
+<img src="/assets/img/JavaScript/promise_example_5.PNG" alt="promise example" width="400"/> 
+
+The constructor synchronously calls your function with function arguments for the <span style="color:#3ababa">resolve</span> and <span style="color:#3ababa">reject</span> parameters. After calling your function, the <span style="color:#3ababa">Promise()</span> constructors returns the newly created Promise. That returned Promise is under the control of the function you passed to the contructor.
+
+
+
 
 
 
