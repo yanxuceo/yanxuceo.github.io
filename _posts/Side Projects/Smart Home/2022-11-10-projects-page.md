@@ -15,13 +15,18 @@ Goal: <br />
 It's all about releasing your hands and saving your time!
 
 With my VoiScale: <br />
-"Alexa, open Smart Scale to record my diet"
+"Alexa, open Smart Scale to record my diet" 
+
 "It's a Banana", 
+
 "Brocollie", 
+
 "Huhu, I get Chicken Chest"
-"I've got Whey Protein" 
+
+"I've got Whey Protein" <br />
 
 "Alexa, show my history data in the past week"
+
 "Alexa, recommend me a recipe"
 
 Tell and go! That's it! Then food weight is recorded, nutrition facts are displayed on your screen, such as Echo Show. Later on, you can review your daily log, set your goal, track your progress all by speaking to Alexa.  
