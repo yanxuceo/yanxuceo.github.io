@@ -7,6 +7,9 @@ tags: [Alexa Developers, JavaScript, Asynchronization]
 ---
 
 
+
+Good reference, this [<span style="color:#3ababa">Blog</span>](https://es6.ruanyifeng.com/#docs/promise).
+
 Contents from this book [<span style="color:#3ababa">JavaScript: The Definitive Guide, 7th Edition</span>](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/) channel.
 
 
@@ -52,6 +55,8 @@ Example to request for the contents of a URL in Node. Node uses <span style="col
 
 
 ## 2. Promises
+所谓Promise，简单说就是一个容器，里面保存着某个未来才会结束的事件（通常是一个异步操作）的结果。从语法上说，Promise 是一个对象，从它可以获取异步操作的消息。
+
 A Promise is an object that represents the result of an asynchronous computation. That result may or may not be ready yet, and the Promise API is intentionally vague about this: there is no way to synchronously get the value of a Promise; you can only ask the Promise to call a callback function when the value is ready. <br />
 
 To make it Promise-based, omit the callback argument, and instead return a Promise object. The caller can then register one or more callbacks on this Promise object, and they will be invoked when the asynchronous computation is done. <br />
