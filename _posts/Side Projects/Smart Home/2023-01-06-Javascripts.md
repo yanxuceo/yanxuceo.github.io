@@ -153,11 +153,36 @@ what about writing a Promise-returning function when you can't use another Promi
 
 Alexa skill example:
 
-<img src="/assets/img/JavaScript/promise_example_5.PNG" alt="promise example" width="400"/> 
+<img src="/assets/img/JavaScript/promise_example_5.PNG" alt="promise example" width="500"/> 
 
 The constructor synchronously calls your function with function arguments for the <span style="color:#3ababa">resolve</span> and <span style="color:#3ababa">reject</span> parameters. After calling your function, the <span style="color:#3ababa">Promise()</span> constructors returns the newly created Promise. That returned Promise is under the control of the function you passed to the contructor.
 
 That function should perform some asynchronous operation and then call the <span style="color:#3ababa">resolve</span> function to resolve or fulfill the returned Promise or call the <span style="color:#3ababa">reject</span> function to reject the returned Promise. 
+
+```
+function wait(duration) {
+    // Create and return a new Promise
+    return new Promise((resolve, reject) => {   // These control the Promise
+                                                // If the argument is invalid, reject the Promise
+        if (duration < 0) {
+            reject(new Error("Time travel not yet implemented"));
+        }
+
+        // Otherwise, wait asynchronously and then resolve the Promise.
+        // setTimeout will invoke resolve() with no arguments, which means
+        // that the Promise will fulfill with the undefined value.
+        setTimeout(resolve, duration);
+    });
+}
+```
+
+This getJSON() example illustrates how we can implement Promise-based APIs on top of other styles of asynchronous programming.
+
+<img src="/assets/img/JavaScript/promise_example_6.PNG" alt="promise example" width="400"/> 
+<img src="/assets/img/JavaScript/promise_example_7.PNG" alt="promise example" width="400"/> 
+
+
+
 
 
 
