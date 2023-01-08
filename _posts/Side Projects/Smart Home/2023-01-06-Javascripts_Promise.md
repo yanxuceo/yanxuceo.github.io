@@ -160,6 +160,9 @@ Alexa skill example:
 
 <img src="/assets/img/JavaScript/promise_example_5.PNG" alt="promise example" width="500"/> 
 
+Pay attension:
+<img src="/assets/img/JavaScript/promise_example_8.PNG" alt="promise example" width="400"/> 
+
 The constructor synchronously calls your function with function arguments for the <span style="color:#3ababa">resolve</span> and <span style="color:#3ababa">reject</span> parameters. After calling your function, the <span style="color:#3ababa">Promise()</span> constructors returns the newly created Promise. That returned Promise is under the control of the function you passed to the contructor.
 
 That function should perform some asynchronous operation and then call the <span style="color:#3ababa">resolve</span> function to resolve or fulfill the returned Promise or call the <span style="color:#3ababa">reject</span> function to reject the returned Promise. 
