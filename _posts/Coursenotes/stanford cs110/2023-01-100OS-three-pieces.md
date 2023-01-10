@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[OS: Three Easy Pieces] Booking reading"
+title: "[OS: Three Easy Pieces] Book reading - Locks"
 date: 2023-01-10 14:00:00 +0800
 categories: [Course Notes, stanford cs110]
 tags: [Operating System, Locks]
