@@ -1,0 +1,19 @@
+---
+layout: post
+title: "[CS144] Introduction to Computer Networking"
+date: 2023-01-11 00:00:00 +0800
+categories: [Course Notes, CS144]
+tags: [computer networking]
+---
+
+Course info can be found [<span style="color:#3ababa">here</span>](https://cs144.github.io/)
+
+Lecture videos:
+[<span style="color:#3ababa">Bilibili</span>](https://www.bilibili.com/video/BV137411Z7LR/?spm_id_from=333.337.search-card.all.click)
+[<span style="color:#3ababa">Youtube</span>](https://www.youtube.com/watch?v=r2WZNaFyrbQ&list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)
+
+<span style="color:#3ababa">Problem</span>: Applications send and receive data in packets over an Internet that is unreliable.
+<span style="color:#3ababa">Goal</span>: How to make it reliable?
+
+
+

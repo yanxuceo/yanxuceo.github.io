@@ -2,7 +2,7 @@
 layout: post
 title: "[OS: Three Easy Pieces] Book reading - Locks"
 date: 2023-01-10 00:00:00 +0800
-categories: [Course Notes, operating system]
+categories: [Course Notes, Operating System]
 tags: [Operating System, Locks]
 ---
 
