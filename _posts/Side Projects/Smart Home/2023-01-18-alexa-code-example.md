@@ -6,10 +6,11 @@ categories: [Side Projects, Smart Home]
 tags: [Alexa Developers, AVS-Device-SDK, Smart Home, VoiScale]
 ---
 
-Alexa cookbook on [<span style="color:#3ababa">Github</span>](https://github.com/alexa/alexa-cookbook)
+Alexa cookbook on [<span style="color:#3ababa">Github</span>](https://github.com/alexa/alexa-cookbook) <br/>
+A very good [<span style="color:#3ababa">blog</span>](https://developer.amazon.com/zh/blogs/alexa/post/28368692-a0b9-4579-b129-e6793bef7848/IPv6) on making HTTP Requests in your Alexa skill, learn how to use asynchronous features in Node.js.
+
 
 ```
-
 function httpGet() {
   return new Promise(((resolve, reject) => {
     var options = {
