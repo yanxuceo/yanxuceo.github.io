@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "0 to 1: Hands-on Alexa Voice Service"
+title: "[Alexa Skill development] 0 to 1: Hands-on Alexa Voice Service"
 date: 2022-11-19 00:15:00 +0800
-categories: [Side Projects, Smart Kitchen]
+categories: [Side Projects, Smart Food Scale]
 tags: [Alexa Developers, AVS-Device-SDK, Smart Home, Raspberry Pi]
 ---
 

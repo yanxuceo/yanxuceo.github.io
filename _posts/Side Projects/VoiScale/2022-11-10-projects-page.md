@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Alexa Smart Food Scale: 00-Design and Implementation of a Voice Scale"
+title: "[Alexa Smart Food Scale] 00-Design and Implementation of a Voice Scale"
 date: 2022-11-10 00:00:00 +0800
-categories: [Side Projects, Smart Kitchen]
+categories: [Side Projects, Smart Food Scale]
 tags: [IOT, Smart Home, Raspberry Pi, Alexa, AWS]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "[VoiScale User Data Visualization] JavaScript, HTML and AWS Lambda code example"
 date: 2023-02-08 00:00:00 +0800
-categories: [Side Projects, Smart Kitchen]
+categories: [Side Projects, Smart Food Scale]
 tags: [Dynamodb, Smart Kitchen, JavaScript, VoiScale]
 ---
 
