@@ -2,7 +2,7 @@
 layout: post
 title: "[JavaScript for Alexa Skill Development] Chapter 6: Objects"
 date: 2023-01-08 15:40:00 +0800
-categories: [Side Projects, Smart Home]
+categories: [Side Projects, Smart Kitchen]
 tags: [Alexa Developers, JavaScript, Asynchronization]
 ---
 

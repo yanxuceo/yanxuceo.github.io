@@ -2,7 +2,7 @@
 layout: post
 title: "[JavaScript for Alexa Skill Development] Chapter 13: Asynchronous features"
 date: 2023-01-06 15:40:00 +0800
-categories: [Side Projects, Smart Home]
+categories: [Side Projects, Smart Kitchen]
 tags: [Alexa Developers, JavaScript, Asynchronization]
 ---
 

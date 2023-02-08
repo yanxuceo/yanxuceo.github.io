@@ -2,7 +2,7 @@
 layout: post
 title: "[Alexa skill code example] How to use Promise, async and await"
 date: 2023-01-18 00:00:00 +0800
-categories: [Side Projects, Smart Home]
+categories: [Side Projects, Smart Kitchen]
 tags: [Alexa Developers, AVS-Device-SDK, Smart Home, VoiScale]
 ---
 
