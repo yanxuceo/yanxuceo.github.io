@@ -50,4 +50,34 @@ new Chart("myChart", {
 </html>
 ```
 
-<img src="/assets/img/JavaScript/pie_chart_nutrition_facts_00.PNG" alt="pie chart food facts" width="500"/> 
+<img src="/assets/img/JavaScript/pie_chart_nutrition_facts_00.PNG" alt="pie chart food facts" width="500"/>  <br />
+
+index.js 
+```
+const http = require('https');
+  
+// Setting the configuration for
+// the request
+const options = {
+    hostname: 'your_endpoint.execute-api.eu-central-1.amazonaws.com',
+    path: '/items',
+    method: 'GET'
+};
+    
+// Sending the request
+const req = http.request(options, (res) => {
+    let data = ''
+     
+    res.on('data', (chunk) => {
+        data += chunk;
+    });
+    
+    // Ending the response 
+    res.on('end', () => {
+        console.log('Body:', JSON.parse(data))
+    });
+       
+}).on("error", (err) => {
+    console.log("Error: ", err)
+}).end()
+```
