@@ -12,6 +12,9 @@ Tutorial from [<span style="color:#3ababa">W3 Schools</span>](https://www.w3scho
 
 code example:
 ```
+<!DOCTYPE html>
+<html>
+
 <script
 src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
 </script>
