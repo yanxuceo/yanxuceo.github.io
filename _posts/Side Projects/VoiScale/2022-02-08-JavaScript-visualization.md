@@ -52,32 +52,59 @@ new Chart("myChart", {
 
 <img src="/assets/img/JavaScript/pie_chart_nutrition_facts_00.PNG" alt="pie chart food facts" width="500"/>  <br />
 
-index.js 
+index.js example to setup a webserver, request DynamoDB data 
 ```
 const http = require('https');
+const http_test = require('http');
   
-// Setting the configuration for
-// the request
-const options = {
-    hostname: 'your_endpoint.execute-api.eu-central-1.amazonaws.com',
-    path: '/items',
-    method: 'GET'
+
+const host = 'localhost';
+const port = 8000;
+
+function httpGet() {
+    return new Promise(((resolve, reject) => {
+        var options = {
+            hostname: 'your_endpoint.execute-api.eu-central-1.amazonaws.com',
+            path: '/items',
+            method: 'GET'
+        };
+      
+      const request = http.request(options, (response) => {
+        response.setEncoding('utf8');
+        let returnData = '';
+  
+        response.on('data', (chunk) => {
+          returnData += chunk;
+        });
+  
+        response.on('end', () => {
+          resolve(JSON.parse(returnData));
+        });
+  
+        response.on('error', (error) => {
+          reject(error);
+        });
+      });
+      request.end();
+    }));
+  }
+  
+
+var scale_response = async function getVoiScale() {
+    const response = await httpGet();
+    console.log(response);
+}
+
+const requestListener = function (req, res) {
+    scale_response();
+
+    res.writeHead(200);
+    res.end("My first server!");
 };
-    
-// Sending the request
-const req = http.request(options, (res) => {
-    let data = ''
-     
-    res.on('data', (chunk) => {
-        data += chunk;
-    });
-    
-    // Ending the response 
-    res.on('end', () => {
-        console.log('Body:', JSON.parse(data))
-    });
-       
-}).on("error", (err) => {
-    console.log("Error: ", err)
-}).end()
+
+
+const server = http_test.createServer(requestListener);
+server.listen(port, host, () => {
+    console.log(`Server is running on http://${host}:${port}`);
+});
 ```
